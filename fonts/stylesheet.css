@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'AvantGarde LT';
+    src: url('AvantGardeLT-ExtraLight.eot');
+    src: url('AvantGardeLT-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('AvantGardeLT-ExtraLight.woff') format('woff'),
+        url('AvantGardeLT-ExtraLight.ttf') format('truetype'),
+        url('AvantGardeLT-ExtraLight.svg#AvantGardeLT-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
